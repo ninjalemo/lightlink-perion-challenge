@@ -2,7 +2,7 @@
 
 This repository contains the information regarding @hackathon_ninja's submission for the LightLink Perion challenge.
 
-The rewards system document, the pitch video and the presentation are uploaded, as well as the Solidity code that could be used for the DAO.
+The rewards system document, the pitch video and the presentation are uploaded, as well as the Solidity code that could be used for the DAO implementation.
 
 # What to Know About These Smart Contracts
 
